@@ -1,0 +1,10 @@
+{
+  "Hosts": [
+    "127.0.0.1:27017"
+  ],
+  "Database": "cronsun",
+  "UserName": "",
+  "Password": "",
+  "#Timeout": "connect timeout duration/second",
+  "Timeout": 15
+}
